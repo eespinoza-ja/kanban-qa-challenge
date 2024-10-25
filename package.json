@@ -1,0 +1,24 @@
+{
+  "name": "kanban-qa-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eespinoza-ja/kanban-qa-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eespinoza-ja/kanban-qa-challenge/issues"
+  },
+  "homepage": "https://github.com/eespinoza-ja/kanban-qa-challenge#readme",
+  "dependencies": {
+    "@playwright/test": "^1.48.1",
+    "playwright": "^1.48.1"
+  }
+}
